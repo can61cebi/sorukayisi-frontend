@@ -1,2 +1,2 @@
 # sorukayisi-backend
-Arel University final project backend
+Arel University final project frontend
